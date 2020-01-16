@@ -5,3 +5,8 @@ List of contributions made to the [Wolfram Function Repository](https://resource
 
 * [MACCSKeys](https://resources.wolframcloud.com/FunctionRepository/resources/MACCSKeys): Compute the 166-bit MACCS (Molecular ACCess System) key. Includes some cute visualization options
 * [MolecularGraphAutocorrelation](https://resources.wolframcloud.com/FunctionRepository/resources/MolecularGraphAutocorrelation): Compute molecular graph autocorrelation vectors, convolved over atomic properties.
+
+## General
+
+* [MapBatched](https://resources.wolframcloud.com/FunctionRepository/resources/MapBatched): Maps a function to a list or association, inserting an operation between batches (facilitates inserting a Pause between queries to a series of RESTful API calls)
+
