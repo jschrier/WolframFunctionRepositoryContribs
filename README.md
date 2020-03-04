@@ -3,6 +3,7 @@ List of contributions made to the [Wolfram Function Repository](https://resource
 
 ## Cheminformatics
 
+* [MoleculeNeutralize](https://resources.wolframcloud.com/FunctionRepository/resources/MoleculeNeutralize): Neutralize the ionic form of a molecule provided as a Molecule, SMILES, or InChI string 
 * [MACCSKeys](https://resources.wolframcloud.com/FunctionRepository/resources/MACCSKeys): Compute the 166-bit MACCS (Molecular ACCess System) key. Includes some cute visualization options
 * [MolecularGraphAutocorrelation](https://resources.wolframcloud.com/FunctionRepository/resources/MolecularGraphAutocorrelation): Compute molecular graph autocorrelation vectors, convolved over atomic properties.
 
